@@ -3,7 +3,7 @@
 
  <remote fetch="https://github.com/namsonx/" name="remoteRepo" />
 
-     <project name="BIS-miniproject.git" path="sub-modules/BIS-miniproject" remote="remoteRepo" revision="master" />
-     <project name="jira_tool.git" path="sub-modules/jira_tool" remote="remoteRepo" revision="master" />
+     <project name="BIS-miniproject.git" path="sub-modules/BIS-miniproject" remote="remoteRepo" />
+     <project name="jira_tool.git" path="sub-modules/jira_tool" remote="remoteRepo" />
 
  </manifest>
